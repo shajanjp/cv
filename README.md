@@ -5,7 +5,7 @@ Fullstack Web Developer
 +91 9747 952 378
 shajanjp@gmail.com
 www.shajanjacob.com
-Bangalore, India
+Cochin, India
 
 OBJECTIVE
 Seeking appropriate position in a fast growing organization so as to perfect my skills and attaining excellent standards while meeting organizational needs.
