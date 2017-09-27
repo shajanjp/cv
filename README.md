@@ -26,31 +26,21 @@ Control and monitor home devices with ease using NodeMCU. Single user-friendly h
 https://github.com/shajanjp/easyhome
 tags: arduino, nodeMCU, Semantic-UI, jQuery
 
+Black Fire - NodeJS web application framework.
+NodeJS web app framework using Express, NodeJS and MongoDB. NodeJS
+https://github.com/shajanjp/blackfire
+tags: nodejs, expressjs, mongodb, ejs 
+
 Sanz & Thulasi - Jekyll templates.
 Minimal and responsive jekyll powered website & blog templates optimized for GH-Pages.
 https://github.com/shajanjp/sanz
 https://github.com/shajanjp/thulasi
 tags: bootstrap, jekyll, GH-Pages
 
-Black Fire - NodeJS web application framework.
-NodeJS web app framework using Express, Node.js and MongoDB. NodeJS
-https://github.com/shajanjp/blackfire
-tags: nodejs, expressjs, mongodb, ejs  
-
-Nalettes - Nature inspired color palettes MongoDB.
-Repository of color palettes picked up carefully, inspired from nature.
-https://guyswhocode.com/nalettes
-tags: HTML, CSS, grid-12, Jekyll, GH-Pages
-
 Sparkle - Developer resources Git.
 Useful and genuine resources for developers added and maintained by developers. Built with jekyll and hosted on GH-Pages.
 https://guyswhocode.com/sparkle
 tags: Semantic-UI, Jekyll, GH-Pages, Bash
-
-Chain Reaction - Web clone of an android game.
-Popular android game Chain Reaction written in HTML, CSS & JS
-http://shajanjacob.com/chain-reaction/
-tags: HTML, CSS, Javascript
 
 QuickDocs - API documentation template.
 Easy to setup API documentation template using Jekyll and Semantic UI.
@@ -61,6 +51,17 @@ MindPrick - Accademics re-imagined.
 Students, syllabus, previous year question papers, time-table, attendance, feedback manager and lot more.
 http://mindprick.github.io/
 tags: nodejs, expressjs, mongodb, ejs, jQuery, Bootstrap
+
+Nalettes - Nature inspired color palettes MongoDB.
+Repository of color palettes picked up carefully, inspired from nature.
+https://guyswhocode.com/nalettes
+tags: HTML, CSS, grid-12, Jekyll, GH-Pages
+
+Chain Reaction - Web clone of an android game.
+Popular android game Chain Reaction written in HTML, CSS & JS
+http://shajanjacob.com/chain-reaction/
+tags: HTML, CSS, Javascript
+
 
 SKILLS
 Technologies
