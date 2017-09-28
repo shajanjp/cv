@@ -16,43 +16,43 @@ It's a food service platform that suggests, orders and guides you to make recipe
 https://letsallchef.github.io
 Tags: NodeJS, ExpressJS, MongoDB, EJS, API, JWT, Semantic-UI  
 
-Familia - Family tree & contacts manager.
+Familia - Family tree & contacts manager
 Contact details, house details, relations and events manager for family.
 https://github.com/shajanjp/familia
 Tags: NodeJS, ExpressJS, MongoDB, EJS, jQuery, Semantic-UI
 
-EasyHome - Device dashboard.
-Control and monitor home devices with ease using NodeMCU. Single user-friendly home automation dashboard and REST API.
+EasyHome - Device dashboard
+Control and monitor home devices with ease using NodeMCU. User-friendly home automation dashboard with REST API support.
 https://github.com/shajanjp/easyhome
 Tags: Arduino, NodeMCU, Semantic-UI, jQuery
 
-Black Fire - NodeJS web application framework.
+Black Fire - NodeJS web application framework
 NodeJS web app framework using Express, NodeJS and MongoDB. NodeJS
 https://github.com/shajanjp/blackfire
 Tags: NodeJS, ExpressJS, MongoDB, EJS
 
-Sanz & Thulasi - Jekyll blog templates.
-Minimal and responsive jekyll powered website & blog templates optimized for GH-Pages.
-https://github.com/shajanjp/sanz
-https://github.com/shajanjp/thulasi
-Tags: bootstrap, Jekyll, GH-Pages
-
-Sparkle - Developer resources Git.
+Sparkle - Developer resources.
 Useful and genuine resources for developers added and maintained by developers. Built with jekyll and hosted on GH-Pages.
 https://guyswhocode.com/sparkle
 Tags: Semantic-UI, Jekyll, GH-Pages, Bash
+
+Sanz & Thulasi - Jekyll blog templates
+Minimal and responsive jekyll powered website & blog templates optimized for GH-Pages.
+https://github.com/shajanjp/sanz
+https://github.com/shajanjp/thulasi
+Tags: Bootstrap, Jekyll, GH-Pages
 
 QuickDocs - API documentation template.
 Easy to setup API documentation template using Jekyll and Semantic UI.
 https://github.com/letsallchef/docs
 Tags: Semantic-UI, Jekyll, GH-Pages
 
-MindPrick - Accademics re-imagined.
+MindPrick - Accademics re-imagined
 Students, syllabus, previous year question papers, time-table, attendance, feedback manager and lot more.
 http://mindprick.github.io/
 Tags: NodeJS, ExpressJS, MongoDB, EJS, jQuery, Bootstrap
 
-Nalettes - Nature inspired color palettes MongoDB.
+Nalettes - Nature inspired color palettes
 Repository of color palettes picked up carefully, inspired from nature.
 https://guyswhocode.com/nalettes
 Tags: HTML, CSS, grid-12, Jekyll, GH-Pages
