@@ -57,11 +57,23 @@ Repository of color palettes picked up carefully, inspired from nature.
 https://guyswhocode.com/nalettes
 Tags: HTML, CSS, grid-12, Jekyll, GH-Pages
 
-Chain Reaction - Web clone of an android game.
+Chain Reaction - Web clone of popular android game.
 Popular android game Chain Reaction written in HTML, CSS & JS
 http://shajanjacob.com/chain-reaction/
 Tags: HTML, CSS, Javascript
 
+Wind Spinner - Emulation using OpenGL
+Wind Spinner emulation in C language using OpenGL library.
+https://github.com/shajanjp/wind-spinner
+Tags: C, OpenGL
+
+PUBLICATIONS & SEMINARS
+Smart Recipe Application for all your Culinary Needs
+Food service platform that suggests, orders and guide to make recipes, a smart companion for home cooks and professional chefs. It also organizes recipes, create cookbooks, and manage health and diet. It helps users accomplish more in the kitchen with the available ingredients. 
+May 24, 2017 - International Journal of Science, Engineering and Technology
+
+MongoDB-Based Repository Design for IoT-Generated RFID/Sensor Big Data
+A sensor-integrated radio frequency identification (RFID) data repository-implementation model using MongoDB. Data repository schema that can effectively integrate and store the heterogeneous IoT data sources, such as RFID, sensor and GPS.
 
 SKILLS
 Technologies
