@@ -65,16 +65,27 @@ Tags: HTML, CSS, Javascript
 
 SKILLS
 Technologies
-WordPress
-
-Libraries
-Semantic-UI
-JQuery
-ExpressJS
-ChartJS
-AngularJS
+Javascript
+NodeJS
+MongoDB
 MySQL
 HTML
+CSS
+PHP
+Git
+Jekyll
+ES6
+Bash
+EJS
+
+Libraries
+Bootstrap
+Semantic-UI
+jQuery
+ExpressJS
+ChartJS
+Angular
+JWT
 
 Personal
 Communication
