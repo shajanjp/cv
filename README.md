@@ -76,47 +76,41 @@ A sensor-integrated radio frequency identification (RFID) data repository-implem
 
 ## SKILLS
 ### Technologies
- * Javascript
- * NodeJS
- * MongoDB
- * MySQL
- * HTML
- * CSS
- * PHP
- * Git
- * Jekyll
- * ES6
- * Bash
- * EJS
+* Javascript
+* NodeJS
+* MongoDB
+* MySQL
+* HTML
+* CSS
+* PHP
+* Git
+* Jekyll
+* ES6
+* Bash
+* EJS
 
 ### Libraries
- * Bootstrap
- * Semantic-UI
- * jQuery
- * ExpressJS
- * ChartJS
- * Angular
- * JWT
-	
-### Personal
- * Communication
- * Creativity
+* Bootstrap
+* Semantic-UI
+* jQuery
+* ExpressJS
+* ChartJS
+* JWT
 
 ## EDUCATION 
- *	2011
-	Bachelor of Engineering (CS)
-	T John Institute of Technology
-	Visvesvaraya Technological University
-
- * 2017
-	Pre University
-	Bappuji Central School, Peruva
-	Central Board of Secondary Education
+*	2017 
+   Bachelor of Engineering (CS) - (54%)
+   T John Institute of Technology
+   Visvesvaraya Technological University
+*	2011
+   Pre University - (52%)
+   Bappuji Central School, Peruva
+   Central Board of Secondary Education
 
 ## HOBBIES & INTERESTS
- * Photography 
- * Paper Quilling
- * Microcontrollers
+* Photography 
+* Paper Quilling
+* Microcontrollers
 
 ## PERSONAL DETAILS
 Date of Birth : **24 August 1993**
