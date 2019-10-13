@@ -10,6 +10,21 @@ Cochin, India
 Seeking appropriate position in a fast growing organization so as to perfect my skills and attaining excellent standards while meeting organizational needs.
 
 ## PROJECTS
+
+### YourCause
+
+### Termite
+
+### Vvoiz
+
+### Resto
+
+### Total Parts Plus
+
+### Alis Chat Bot
+
+### BBCream
+
 ### Lets All Chef - Food marketplace and recipe ideas
 It's a food service platform that suggests, orders and guides you to make recipes. Smart companion for home cooks and professional chefs. Accomplish more in the kitchen with what you have.
 https://letsallchef.github.io
