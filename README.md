@@ -7,7 +7,7 @@ www.shajanjacob.com
 Cochin, India
 
 ## OBJECTIVE
-Seeking appropriate position in a fast growing organization so as to perfect my skills and attaining excellent standards while meeting organizational needs.
+Passionate software engineer seeking appropriate position in a fast-growing organization to build innovative solutions for the web.
 
 ## PROJECTS
 
