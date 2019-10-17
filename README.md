@@ -1,88 +1,114 @@
 # Shajan Jacob
-Fullstack Web Developer
+FullStack Web Developer
 
 +91 9747 952 378
 shajanjp@gmail.com
 www.shajanjacob.com
 Cochin, India
 
-## OBJECTIVE
-Passionate software engineer seeking appropriate position in a fast-growing organization to build innovative solutions for the web.
+## Objective
+Passionate software engineer seeking appropriate position in an organization to build modern applications for the web.
 
-## PROJECTS
+## Work Experience
 
-### YourCause
+### Cubet Techno Labs - Oct 2017 - Oct 2019 (2 Years)
 
-### Termite
+#### VVOIZ - Online platform for dubbing
+Role: Built all backend functionalities for managing user, user roles, chat, dubbing flow, video and audio processing.
+Built NodeJS wrapper package for FFMPEG module.
+Tech : NodeJS, MongoDB, ExpressJS, FFMPEG, AWS, Firebase, Socket, SendGrid JWT, Swagger
 
-### Vvoiz
+#### Total Parts Plus - Obsolescence Management Module
+Built backend functionalities for handling insertion and filtered view of data thats around million records.  
+Tech : NodeJS, Express, PostgreSQL, NodeMailer, XLSX
 
-### Resto
+#### BBCream - Dating and dining
+Built entire backend functionality for authentication, chat, point ssystem, cron jobs.
+NodeJS, Express, MongoDB, Push Notifications, Firebase, Cron
 
-### Total Parts Plus
+#### Alis - Conversational Assistant
+  Built a chat engine that can handle multiple twitter chat bots at the same time.
+  Stack: NodeJS, Redis, ExpressJS, IBM Watson, Twitter SDK 
 
-### Alis Chat Bot
+#### Termite - Survey platform for furnitures and surroundings
+System is used by a company they provide survey for furnitures to find termite attack. Used as an offline tool too.
+System will provide report based on the survey. Not usable for public.
+Roles - All backend functionality implementation.
+Stack : 
 
-### BBCream
+#### Resto - Dining platform for upscale restaurants.
+Roles Integrated stripe payment system and point system for users depending on their activities and invitations.
+Stack : NodeJS, Express, MongoDB, Elastic Search, Stripe 
 
-### Lets All Chef - Food marketplace and recipe ideas
+#### YourCause - Grants Management for corporates
+Built workflows for managing grants
+Stack : NodeJS, ExpressJS, MongoDB
+
+### Alts Solution - May 2017 - Oct 2017 (2 Years)
+
+#### MyOfficeBag - Customer Relationship Management
+Build backend and frontend functionalities for dashboard and analytics section
+Stack: PHP, MySQL, Bootstrap, ChartJS
+
+
+#### Lets All Chef - Food marketplace and recipe ideas
 It's a food service platform that suggests, orders and guides you to make recipes. Smart companion for home cooks and professional chefs. Accomplish more in the kitchen with what you have.
 https://letsallchef.github.io
 Tags: `NodeJS` `ExpressJS` `MongoDB` `EJS` `API` `JWT` `Semantic-UI`
 
-### Familia - Family tree & contacts manager
+#### Familia - Family tree & contacts manager
 Contact details, house details, relations and events manager for family.
 https://github.com/shajanjp/familia
 Tags: `NodeJS` `ExpressJS` `MongoDB` `EJS` `jQuery` `Semantic-UI`
 
-### EasyHome - Device dashboard
+#### EasyHome - Device dashboard
 Control and monitor home devices with ease using NodeMCU. User-friendly home automation dashboard with REST API support.
 https://github.com/shajanjp/easyhome
 Tags: `Arduino` `NodeMCU` `Semantic-UI` `jQuery`
 
-### Black Fire - NodeJS web application framework
-NodeJS web app framework using Express, NodeJS and MongoDB. NodeJS
+#### Black Fire - NodeJS web application framework
+Built
 https://github.com/shajanjp/blackfire
 Tags: `NodeJS` `ExpressJS` `MongoDB` `EJS`
 
-### Sparkle - Developer resources.
+#### Sparkle - Developer resources.
 Useful and genuine resources for developers added and maintained by developers. Built with jekyll and hosted on GH-Pages.
 https://guyswhocode.com/sparkle
 Tags: `Semantic-UI` `Jekyll` `GH-Pages` `Bash`
 
-### Sanz & Thulasi - Jekyll blog templates
+#### Sanz & Thulasi - Jekyll blog templates
 Minimal and responsive jekyll powered website & blog templates optimized for GH-Pages.
 https://github.com/shajanjp/sanz
 https://github.com/shajanjp/thulasi
 Tags: `Bootstrap` `Jekyll` `GH-Pages`
 
-### QuickDocs - API documentation template.
+#### QuickDocs - API documentation template.
 Easy to setup API documentation template using Jekyll and Semantic UI.
 https://github.com/letsallchef/docs
 Tags: `Semantic-UI` `Jekyll` `GH-Pages`
 
-### MindPrick - Accademics re-imagined
+#### MindPrick - Accademics re-imagined
 Students, syllabus, previous year question papers, time-table, attendance, feedback manager and lot more.
 http://mindprick.github.io/
 Tags: `NodeJS` `ExpressJS` `MongoDB` `EJS` `jQuery` `Bootstrap`
 
-### Nalettes - Nature inspired color palettes
+#### Nalettes - Nature inspired color palettes
 Repository of color palettes picked up carefully, inspired from nature.
 https://guyswhocode.com/nalettes
 Tags: `HTML` `CSS` `grid-12` `Jekyll` `GH-Pages`
 
-### Chain Reaction - Web clone of popular android game.
+#### Chain Reaction - Web clone of popular android game.
 Popular android game Chain Reaction written in HTML, CSS & JS
 http://shajanjacob.com/chain-reaction/
 Tags: `HTML` `CSS` `Javascript`
 
-### Wind Spinner - Emulation using OpenGL
+#### Wind Spinner - Emulation using OpenGL
 Wind Spinner emulation in C language using OpenGL library.
 https://github.com/shajanjp/wind-spinner
 Tags: `C` `OpenGL`
 
 ## PUBLICATIONS & SEMINARS
-### Smart Recipe Application for all your Culinary Needs
+#### Smart Recipe Application for all your Culinary Needs
 Food service platform that suggests, orders and guide to make recipes, a smart companion for home cooks and professional chefs. It also organizes recipes, create cookbooks, and manage health and diet. It helps users accomplish more in the kitchen with the available ingredients. 
 *May 24, 2017 - International Journal of Science, Engineering and Technology*
 
@@ -91,41 +117,44 @@ A sensor-integrated radio frequency identification (RFID) data repository-implem
 
 ## SKILLS
 ### Technologies
-* Javascript
+* JavaScript
 * NodeJS
 * MongoDB
 * MySQL
+* TypeScript
 * HTML
-* CSS
-* PHP
+* CSS 
 * Git
+* AWS
 * Jekyll
-* ES6
 * Bash
 * EJS
 
 ### Libraries
+* ExpressJS
 * Bootstrap
 * Semantic-UI
 * jQuery
-* ExpressJS
 * ChartJS
 * JWT
+* SendGrid 
+* Stripe
+* Swagger
 
 ## EDUCATION 
 *	2017 
-   Bachelor of Engineering (CS) - (54%)
+   Bachelor of Engineering (CS)
    T John Institute of Technology
    Visvesvaraya Technological University
 *	2011
-   Pre University - (52%)
+   Pre University (CS)
    Bappuji Central School, Peruva
    Central Board of Secondary Education
 
 ## HOBBIES & INTERESTS
 * Photography 
 * Paper Quilling
-* Microcontrollers
+* MicroControllers
 
 ## PERSONAL DETAILS
 Date of Birth : **24 August 1993**
