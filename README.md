@@ -9,9 +9,9 @@ Cochin, India
 ## Objective
 Passionate software engineer seeking an appropriate position in an organization to build modern applications for the web.
 
-## Work Experience
+## WORK EXPERIENCE
 
-### Cubet Techno Labs - Oct 2017 - Present (2 Years)
+### Cubet Techno Labs // Oct 2017 - Present (2 Years)
 * Involved in architecting and building custom APIs for more than 8 projects.
 * Published `ffmpeg-sdk` NPM package, which is a NodeJS wrapper for FFMPEG (multimedia processing software) that served as a core utility for an online dubbing studio project.
 * Built chat engine for twitter that can handle multiple chatbots in a single NodeJS instance.
