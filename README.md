@@ -7,23 +7,24 @@ www.shajanjacob.com
 Cochin, India
 
 ## Objective
-Passionate software engineer seeking an appropriate position in an organization to build modern applications for the web.
+Passionate software engineer seeking an appropriate position in an organization to grow and build modern applications for the web.
 
 ## WORK EXPERIENCE
 
-### Cubet Techno Labs // Oct 2017 - Present (2 Years)
-* Involved in architecting and building custom APIs for more than 8 projects.
+### Software Engineer // Cubet Techno Labs // Oct 2017 - Present (2 Years)
+* Involved in architecting and building custom APIs for company's core projects.
 * Published `ffmpeg-sdk` NPM package, which is a NodeJS wrapper for FFMPEG (multimedia processing software) that served as a core utility for an online dubbing studio project.
 * Built chat engine for twitter that can handle multiple chatbots in a single NodeJS instance.
 * Implemented text/audio chat using sockets for a realtime multiuser project.
 * Worked on the serverless platform using AWS lambda / Firebase FaaS.
 * Involved in most of the backend development cycles from project setup, DB design, server setup, application logic, documentation, testing and continues deployment.
 
-
+### Software Engineer // Alts Solutions // May 2017 - Oct 2017
+* 
 #### VVOIZ - Online platform for dubbing
 * Built all backend functionalities for managing user, user roles, chat, dubbing flow, video, and audio processing.
 * Built NodeJS wrapper package for FFMPEG module.
-`NodeJS` `MongoDB` `ExpressJS` `FFMPEG` `AWS` `Firebase` `Socket` `SendGrid JWT` `Swagger`
+`NodeJS` `MongoDB` `ExpressJS` `FFMPEG` `AWS` `Firebase` `Socket` `SendGrid` `JWT` `Swagger`
 
 #### Total Parts Plus - Obsolescence Management Module
 * Built backend functionalities for handling insertion and filtered view of data thats around million records.
