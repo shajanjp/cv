@@ -20,7 +20,8 @@ Passionate software engineer seeking an appropriate position in an organization 
 * Involved in most of the backend development cycles from project setup, DB design, server setup, application logic, documentation, testing and continues deployment.
 
 ### Software Engineer // Alts Solutions // May 2017 - Oct 2017
-* 
+* Involed in building logic and dashboad for a CRM project.
+
 #### VVOIZ - Online platform for dubbing
 * Built all backend functionalities for managing user, user roles, chat, dubbing flow, video, and audio processing.
 * Built NodeJS wrapper package for FFMPEG module.
@@ -60,27 +61,27 @@ Passionate software engineer seeking an appropriate position in an organization 
 
 #### Meemi - Online ornamental fish store
 Online fish store, forum, store locator and wiki.
-https://github.com/shajanjp/ace-of-spades
-`NodeJS` `ExpressJS` `MongoDB` `ElasticSearch` `SemanticUI`  
+http://meemi.in/
+`NodeJS` `ExpressJS` `MongoDB` `Elastic Search` `SemanticUI`  
 
 #### Ace Of Spades - Realtime online multiplayer card game
 Multiplayer online card game with flexible game support.
-https://github.com/shajanjp/easyhome
+https://spade.glitch.me/
 `JavsScript` `Socket` `Sementic-UI` `HTML` `CSS`
 
 #### EasyHome - IoT dashboard
-Control and monitor home devices with ease using NodeMCU. User-friendly home automation dashboard with REST API support.
-https://github.com/shajanjp/easyhome
+Control and monitor home devices with ease using NodeMCU.
+https://shajanjacob.com/easyhome
 `Arduino` `NodeMCU` `Semantic-UI` `jQuery` `C`
 
-#### Black Fire - NodeJS web application framework
+#### Black Fire - Minialistic NodeJS web application framework
 Easy to use, modular, REST API boilerplate and generator CLI using NodeJS, Express, and MongoDB.
-https://github.com/shajanjp/blackfire
+https://shajanjacob.com/blackfire
 `NodeJS` `ExpressJS` `MongoDB` `EJS`
 
-#### HN - Minimalistic Hacker News reader
+#### HN - Minimalistic Hacker News reader and PWA 
 Simple hacker news feed reader
-`JavaScript`, `JQuery`, `Semantic-UI`, `Firebase`
+`PWA` `JavaScript` `jQuery` `Semantic-UI` `Firebase`
 
 #### Familia - Family tree & contacts manager
 Contact details, house details, relations and events manager for family.
@@ -107,29 +108,41 @@ A sensor-integrated radio frequency identification (RFID) data repository-implem
 
 ## SKILLS
 ### Technologies
-* JavaScript
-* NodeJS
-* MongoDB
-* MySQL
-* TypeScript
-* HTML
-* CSS 
-* Git
-* AWS
-* Bash
-* EJS
+* JavaScript 4
+* NodeJS 4
+* MongoDB 4
+* MySQL 3
+* TypeScript 3
+* HTML 5
+* CSS 4
+* Git 3
+* AWS 3
+* Bash 3
+* EJS 5
+
+ExpressJS 5
+Jekyll 4
+Bootstrap 5
+Semantic-UI 5
+jQuery 4
+ChartJS 4
+JWT 5
+SendGrid 3
+Stripe 4
+Swagger 4
+
 
 ### Libraries
-* ExpressJS
-* Jekyll
-* Bootstrap
-* Semantic-UI
-* jQuery
-* ChartJS
-* JWT
-* SendGrid 
-* Stripe
-* Swagger
+* ExpressJS 5
+* Jekyll 4
+* Bootstrap 5
+* Semantic-UI 5
+* jQuery 4
+* ChartJS 4
+* JWT 5
+* SendGrid 3
+* Stripe 4
+* Swagger 4
 
 ## EDUCATION 
 *    2017 
