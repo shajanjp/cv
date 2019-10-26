@@ -12,12 +12,13 @@ Passionate software engineer seeking an appropriate position in an organization 
 ## WORK EXPERIENCE
 
 ### Software Engineer // Cubet Techno Labs // Oct 2017 - Present (2 Years)
-* Involved in architecting and building custom APIs for company's core projects.
+* Involved in architecting and building custom APIs for the company's core projects.
 * Published `ffmpeg-sdk` NPM package, which is a NodeJS wrapper for FFMPEG (multimedia processing software) that served as a core utility for an online dubbing studio project.
 * Built chat engine for twitter that can handle multiple chatbots in a single NodeJS instance.
 * Implemented text/audio chat using sockets for a realtime multiuser project.
-* Worked on the serverless platform using AWS lambda / Firebase FaaS.
-* Involved in most of the backend development cycles from project setup, DB design, server setup, application logic, documentation, testing and continues deployment.
+* Built microservices on serverless platforms using AWS lambda / Firebase FaaS.
+* Involved in prototyping, designing, building, documenting, testing, deploying and maintaining software systems.
+* Debugged, fixed and maintained ongoing and existing application issues.
 
 ### Software Engineer // Alts Solutions // May 2017 - Oct 2017
 * Involed in building logic and dashboad for a CRM project.
@@ -28,7 +29,7 @@ Passionate software engineer seeking an appropriate position in an organization 
 `NodeJS` `MongoDB` `ExpressJS` `FFMPEG` `AWS` `Firebase` `Socket` `SendGrid` `JWT` `Swagger`
 
 #### Total Parts Plus - Obsolescence Management Module
-* Built backend functionalities for handling insertion and filtered view of data thats around million records.
+* involved in building backend functionalities for handling bulk insertion and download of filtered data thats around million records.
 `NodeJS` `Express` `PostgreSQL` `NodeMailer` `XLSX`
 
 #### BBCream - Dating and dining
