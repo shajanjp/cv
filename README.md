@@ -99,6 +99,31 @@ Useful and genuine resources for developers added and maintained by developers. 
 https://guyswhocode.com/sparkle
 `Semantic-UI` `Jekyll` `GH-Pages` `Bash`
 
+#### Sudoku solver - 9x9 sudoku solver 
+9x9 sudoku solver with 1000 sample puzzles.
+https://shajanjacob.com/sudoku
+`JavaScript` `HTML` `CSS`
+
+#### TeamWorked - Time logging made simple.
+Unofficial browser plug-in for time logging in teamwork.
+https://addons.mozilla.org/en-US/firefox/addon/teamworked
+`JavaScript` `HTML` `CSS`
+
+#### Codemine - Snippets and cheat-sheets for developers
+Snippets and cheat-sheets for developers and designers.
+https://guyswhocode.com/codemine
+`Jekyll` `Semantic-UI` `JavaScript`
+
+#### Statuz - Server status page simplified.
+Server status page with uptime, memory and git log details. 
+https://www.npmjs.com/package/statuz
+`NodeJS` `EJS` `ExpressJS`
+
+#### Sanz - Jekyll starter template
+https://github.com/shajanjp/sanz/
+Minimal blog starter template for jekyll.
+`Jekyll` `liquid` `GH-Pages`
+
 ## PUBLICATIONS & SEMINARS
 #### Smart Recipe Application for all your Culinary Needs
 Food service platform that suggests, orders and guide to make recipes, a smart companion for home cooks and professional chefs. It also organizes recipes, creates cookbooks, and manage health and diet. It helps users accomplish more in the kitchen with the available ingredients. 
