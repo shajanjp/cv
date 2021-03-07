@@ -11,7 +11,15 @@ Passionate software engineer seeking an appropriate position in an organization 
 
 ## WORK EXPERIENCE
 
-### Software Engineer // Cubet Techno Labs // Oct 2017 - Present (2 Years)
+### Senior Software Engineer // Sorice Solutions // Feb 2021 - Present
+* Involved in planning, estimating, architecting and building custom services for the company's core projects.
+* Built data enricher component for Big Query integration.
+* Handled sprint releases and versioning.
+* Built microservices on serverless platforms using AWS lambda / Firebase FaaS.
+* Involved in prototyping, designing, building, documenting, testing, deploying and maintaining software systems.
+* Debugged, fixed and maintained ongoing and existing application issues.
+
+### Software Engineer // Cubet Techno Labs // Oct 2017 - Feb 2020
 * Involved in architecting and building custom APIs for the company's core projects.
 * Published `ffmpeg-sdk` NPM package, which is a NodeJS wrapper for FFMPEG (multimedia processing software) that served as a core utility for an online dubbing studio project.
 * Built chat engine for twitter that can handle multiple chatbots in a single NodeJS instance.
