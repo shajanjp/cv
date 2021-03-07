@@ -1,0 +1,33 @@
+body{
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+    margin: 1em auto;
+    line-height: 1;
+    font-family: Ubuntu;
+}
+
+.page {
+    width: 210mm;
+    height: 297mm;
+    padding: 15mm 15mm 15mm 15mm;
+    border: 1px solid #999;
+}
+
+header h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+header .title {
+    color: #999;
+}
+
+.contact p{
+    margin-bottom: .5em;
+}
+
+section h3 {
+    text-transform: uppercase;
+}
